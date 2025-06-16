@@ -1,4 +1,4 @@
-# 🏥 Medical Insurance Cost Predictor
+# 🏥 Insurance Cost Predictor (Healthcare)
 ## 🔗 Live Demo
 👉 [Try the app on Hugging Face Spaces](https://huggingface.co/spaces/urvidhomne/Insurance-Cost-Predictor)
 
