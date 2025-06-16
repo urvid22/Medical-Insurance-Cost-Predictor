@@ -13,6 +13,7 @@ This project estimates insurance costs based on input features such as age, BMI,
 
 ### Features
 - Real-time prediction of insurance charges
+- EDA, Model evaluation and Hyperparameter Tuning
 - Trained using Ridge and XGBoost regressors
 - Integrated scikit-learn pipeline with ColumnTransformer & GridSearchCV
 - Dockerized and deployed on Hugging Face Spaces
@@ -22,6 +23,6 @@ This project estimates insurance costs based on input features such as age, BMI,
 
 ## 🧪 Model Performance
 
-- ✅ Best Model: **Ridge Regression**
+- ✅ Best Model: **Ridge Regression** and **XgBoost** after tuning
 - ✅ R² Score: **0.67**
 - ✅ Evaluation Metrics: MAE = 0.22, RMSE = 0.44 (scaled)
