@@ -1,10 +1,10 @@
 # 🏥 Medical Insurance Cost Predictor
-
-ML Pipeline that predicts medical insurance charges based on user demographics and lifestyle inputs. Built with scikit-learn pipelines, deployed using Streamlit and Docker on Hugging Face Spaces.
-
 ## 🔗 Live Demo
 👉 [Try the app on Hugging Face Spaces](https://huggingface.co/spaces/urvidhomne/Insurance-Cost-Predictor)
 
+---
+
+ML Pipeline that predicts medical insurance charges based on user demographics and lifestyle inputs. Built with scikit-learn pipelines, deployed using Streamlit and Docker on Hugging Face Spaces.
 ---
 
 ## 📌 Project Overview
